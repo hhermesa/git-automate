@@ -1,1 +1,0 @@
-# lambda-git-automate
